@@ -1,0 +1,1 @@
+- Shuruq, I want to master AI infrastructure and deployment
