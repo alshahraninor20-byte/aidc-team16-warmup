@@ -1,1 +1,2 @@
 - Shuruq, I want to master AI infrastructure and deployment
+-Huraa, I want to. graduate from SDA
